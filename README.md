@@ -1,8 +1,8 @@
 # 👽 Polygon ZkEvm DAPP 👽
 
-🦋`Stack used = Solidity, React, Ethers.Js, zkEvm (Polygon ZkEvm L2) Hardhat, Fleek`🦋
+🦋`Stack used = Solidity, React, Ethers.Js, zkEvm (Polygon ZkEvm L2) Hardhat`🦋
 
-Fleek Live Demo = 
+Live Demo = https://zk-evm-dapp.vercel.app/
 
 This project demonstrates a use case of zkEvm. 
 
